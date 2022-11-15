@@ -77,7 +77,7 @@ while (sKey == null)
 //-------------------------------
 BeginOfProcess: //Loops back here wenn one run is finished
 
-Console.WriteLine("Bitte IP angeben."); 
+Console.WriteLine("Please Type a IP Adress (Example: 8.8.8.8):"); 
 string sIpToLookUp = Console.ReadLine(); //Saves IP as String for URL Build.
 
 string sAPIURL = "https://vpnapi.io/api/"+sIpToLookUp+"?key=" + sKey; //Building the API key with the LookUpIP and your Key.
