@@ -7,11 +7,12 @@ Then you start the program and it will ask you for your Key, type in your Key (o
 Your Key will be saved for future uses, it will ask each startup if you want to Edit your Key.
 
 Config Path: %LocalAppData% -> IP-VPN-Checker
-On Windows: C:\Users\[USERNAME]\AppData\Local\IP-VPN-Checker
+On Windows: C:\Users\\[USERNAME]\AppData\Local\IP-VPN-Checker
 
 This is nothing new or special, just a random program that I programmed some time ago.
 
 If you see a part who could be done better pls contact me and inform me.
+
 I would love to get advice to improve my programming skills. 
 
-Discord: Felix F.#8810
+Discord: Fel!x#8810
