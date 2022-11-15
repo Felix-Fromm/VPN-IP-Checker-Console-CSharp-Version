@@ -2,9 +2,9 @@
 
 This Console Application is working with a VPN API by https://vpnapi.io.
 
-In order to Use it, you need to create an account at https://vpnapi.io to get an API-Key.
+In order to Use it, you need to create an account at https://vpnapi.io/signup to get an API-Key.
 Then you start the program and it will ask you for your Key, type in your Key (or paste it) and press ENTER
-Your Key will be saved for future uses, for a new Key just delete the config.ff file.
+Your Key will be saved for future uses, it will ask each startup if you want to Edit your Key.
 
 Config Path: %LocalAppData% -> IP-VPN-Checker
 On Windows: C:\Users\[USERNAME]\AppData\Local\IP-VPN-Checker
